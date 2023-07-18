@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Gallego</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<h4 align ="center> About me </h4>
+ ## ⭐️ About me 
   Software Developer, passionate about Frontend development.
 
 I enjoy creating websites with the aim of achieving a unique and comfortable user experience. You can see some of my projects in the Projects section.
@@ -18,7 +18,7 @@ I am a self-taught individual who is responsible and committed to my work. I am 
 <a href="https://github.com/albertogalleego" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
-SKILLS: 
+## ⭐️ SKILLS: 
 <br>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
