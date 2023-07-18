@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
  ## ⭐️ About me 
- 💜 I am apassionate about technology   <br>🎓  Criminólogy and  Developer  <br>💻  Front-end | <br>🎮 Gamer
+ 💜 I am apassionate about technology   <br>🎓  Criminólogy and  Developer  <br>💻  Front-end | <br>🎮 Gamer <br>
   Software Developer, passionate about Frontend development.
 
 I enjoy creating websites with the aim of achieving a unique and comfortable user experience. You can see some of my projects in the Projects section.
