@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alberto Gallego</h1>
 <h3 align="center">Frontend Developer</h3>
 
+<h4 align ="center> About me </h4>
+  <p> Software Developer, passionate about Frontend development.
+
+I enjoy creating websites with the aim of achieving a unique and comfortable user experience. You can see some of my projects in the Projects section.
+
+I am a self-taught individual who is responsible and committed to my work. I am constantly learning new technologies and tools to enhance my skills.</p>
+<br>
 - 💬 Ask me about **HTML,CSS,JS,JAVA,REACTJS**
 
 - 📫 How to reach me **albertogallego17@gmail.com**
