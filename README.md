@@ -2,6 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
  ## ⭐️ About me 
+ 💜 I am apassionate about technology   <br>🎓  Criminólogy and  Developer  <br>💻  Front-end | <br>🎮 Gamer
   Software Developer, passionate about Frontend development.
 
 I enjoy creating websites with the aim of achieving a unique and comfortable user experience. You can see some of my projects in the Projects section.
@@ -18,7 +19,7 @@ I am a self-taught individual who is responsible and committed to my work. I am 
 <a href="https://github.com/albertogalleego" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
-## ⭐️ SKILLS: 
+## 💻 SKILLS: 
 <br>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -29,7 +30,6 @@ I am a self-taught individual who is responsible and committed to my work. I am 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge&logo=css3&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
