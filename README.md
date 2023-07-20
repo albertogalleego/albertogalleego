@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Gallego</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
  ## ⭐️ About me 
  💜 I am apassionate about technology   <br>🎓  Criminology and  Developer  <br>💻  Frontend  <br>🎮 Gamer <br>
